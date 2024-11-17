@@ -1,0 +1,4 @@
+2024-11-17 10:49:08,360 - ERROR - Error loading FAISS index: FAISS.__init__() missing 1 required positional argument: 'embedding_function'
+2024-11-17 10:49:33,016 - ERROR - Error loading FAISS index: FAISS.__init__() missing 1 required positional argument: 'embedding_function'
+2024-11-17 10:50:19,322 - ERROR - Error loading FAISS index: FAISS.__init__() missing 1 required positional argument: 'embedding_function'
+2024-11-17 10:50:32,873 - ERROR - Error loading FAISS index: FAISS.__init__() missing 1 required positional argument: 'embedding_function'
